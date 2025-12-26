@@ -205,4 +205,8 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
-test.py 
+
+# Saving expenses/reveneu examples
+test.py
+expenses.txt
+revenues.txt
